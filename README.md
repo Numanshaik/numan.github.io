@@ -10,10 +10,10 @@ Location: Guntur, Andhra Pradesh, India
 Aspiring Jr. Analyst with strong analytical skills and experience in data manipulation, cleaning, and visualization using Python. Proven ability to collaborate with teams and translate complex data sets into actionable insights for business decision-making.
 
 ### Technical skills
-Programming Languages: Python (Proficient), Java (Basic)
-Data Visualization: Tableau, Power BI, Excel
-Development Tools: Jupyter Notebook, Anaconda
-Databases: SQL (Proficient in data manipulation, querying, and analysis)
+* Programming Languages: Python (Proficient), Java (Basic)
+* Data Visualization: Tableau, Power BI, Excel
+* Development Tools: Jupyter Notebook, Anaconda
+* Databases: SQL (Proficient in data manipulation, querying, and analysis)
 - Soft Skills
 - Problem Solving & Critical Thinking
 - Time Management
